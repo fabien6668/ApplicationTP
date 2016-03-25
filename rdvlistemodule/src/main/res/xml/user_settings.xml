@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="votre message">
+        <EditTextPreference
+            android:title="votre sms"
+            android:summary="Voici un message"
+            android:key="prefUserPassword"
+            android:defaultValue="\@nom je voulais vous rappeler que vous avez rendez-vous demain à @heures heures"/>
+    </PreferenceCategory>
+</PreferenceScreen>

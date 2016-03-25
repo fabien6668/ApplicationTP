@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ApplicationTP</string>
+    <string name="nom">nom de la personne</string>
+    <string name="tel">téléphone</string>
+    <string name="date">la date du rendez-vous</string>
+    <string name="heure">l\'heure du rendez-vous</string>
+    <string name="entrer_le_nom">Valider la création</string>
+    <string name="message_clic">Monsieur ou Madame @nom a rendez-vous la @date à @heure et est joignable au @telephone</string>
+</resources>

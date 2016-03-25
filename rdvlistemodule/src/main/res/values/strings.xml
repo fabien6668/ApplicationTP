@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RdvListeModule</string>
+    <string name="rappeler_rdv">Rappeler les rendez-vous</string>
+    <string name="nom">nom de la personne</string>
+    <string name="tel">téléphone</string>
+    <string name="date">la date du rendez-vous</string>
+    <string name="heure">l\'heure du rendez-vous</string>
+    <string name="entrer_le_nom">Valider la création</string>
+    <string name="message_clic">Monsieur ou Madame @nom a rendez-vous la @date à @heure et est joignable au @telephone</string>
+    <string name="creation">Création</string>
+    <string name="timer_en_cours">Timer lancé</string>
+    <string name="attention">Attention !</string>
+    <string name="rappeler_client">Il faut rappeler le client demain</string>
+    <string name="probleme_lecture_donnees">Problème de lecture des données</string>
+    <string name="probleme_ecriture_donnees">Problème d\'écriture des données</string>
+    <string name="message_envoye">Message envoyé</string>
+    <string name="pas_de_messages">Pas de messages dans la liste</string>
+    <string name="envoi_sms">Envoi de sms</string>
+</resources>
